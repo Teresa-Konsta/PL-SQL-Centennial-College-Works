@@ -1,0 +1,7 @@
+Instructions
+
+Complete questions 9-9 and 9-10 from the text book on page 373.
+
+Be sure to include 2 SQL statements for each question to test the triggers.
+
+Your submission must be a single script file with a .sql extension.
